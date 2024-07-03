@@ -2,8 +2,6 @@
 
 OpenAir is a global volunteer network focused on advancing carbon dioxide removal climate tech through open collaborative advocacy and science missions.
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=openair-collective/openair-cyan,openair-collective/openair-epiphyte,openair-collective/openair-violet,alexose/synthwave&type=Date)](https://star-history.com/#openair-collective/openair-cyan&openair-collective/openair-epiphyte&openair-collective/openair-violet&alexose/synthwave&Date)
 
 <!--
